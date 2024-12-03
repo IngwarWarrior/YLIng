@@ -1,1 +1,1 @@
-Welcome отсюда
+Welcome
